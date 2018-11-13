@@ -1,0 +1,40 @@
+header{
+	font-family: "Times New Roman", "Arial";
+	text-align: center;
+	background: #81a0d1;
+	color: #FFFFFF;
+	}
+
+img {
+	display: block;
+  margin: 0 auto;
+	width:200px;
+	height: auto;
+}
+nav a{
+	display: inline-block;
+	padding: 10px 70px;
+	margin: 5px 70px;
+	border: 0px 4px;
+	border-color: #FFFFFF;
+	color: #FFFFFF;
+	background: #81a0d1;
+	text-decoration: none;
+}
+
+nav a.active{
+	display: inline-block;
+	padding: 10px 70px;
+	margin: 5px 70px;
+	border: 0px 4px;
+	border-color: #FFFFFF;
+	color: #1A5276;
+	background: #81a0d1;
+	text-decoration: none;
+	font-weight: 900;
+}
+
+.headers ul {
+  display: inline;
+}
+
