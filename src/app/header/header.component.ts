@@ -12,6 +12,7 @@ export class HeaderComponent implements OnInit {
 
   setActive(name) {
     this.activeHeader = name;
+    console.log(this.activeHeader);
   }
   constructor() { }
 
